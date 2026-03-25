@@ -1,6 +1,6 @@
 # Hi, I'm Samrat 👋
 
-I'm a 1st-year Computer Science student passionate about software development and solving real-world problems.  
+I'm a 2nd-year Computer Science student passionate about software development and solving real-world problems.  
 
 **Currently working on:** building projects to strengthen my coding and web development skills.  
 
