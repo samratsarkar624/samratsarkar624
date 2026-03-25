@@ -25,5 +25,5 @@ It detects whether a transaction is fraudulent or normal based on input features
 ---
 
 ## Connect with me
-- [LinkedIn](www.linkedin.com/in/samrat-sarkar-978115294)  
+- [LinkedIn](https://www.linkedin.com/in/samrat-sarkar-978115294/)  
 - [Email](samratsarkar624@gmail.com)
