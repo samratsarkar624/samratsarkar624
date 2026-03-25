@@ -36,4 +36,4 @@ It detects whether a transaction is fraudulent or normal based on input features
 
 ## Connect with me
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samrat-sarkar-978115294/)  
-- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samratsarkar624@gmail.com)
+- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=samratsarkar624@gmail.com)
